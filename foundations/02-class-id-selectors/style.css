@@ -1,0 +1,18 @@
+.one{ 
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#oneID{
+    color: blue;
+    font-size: 36px;
+}
+#twoID{
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
+.three{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+}
